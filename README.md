@@ -1,6 +1,6 @@
 # 🐍 Classic Snake Game
 
-A modern, responsive implementation of the classic Nokia Snake game built with React, TypeScript, and Tailwind CSS. Featuring automatic snake movement, high score tracking, and a beautiful split-screen UI design.
+An implementation of the classic Nokia Snake game built with React, TypeScript, and Tailwind CSS.
 
 ## ✨ Features
 
